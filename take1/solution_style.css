@@ -1,0 +1,114 @@
+.item {
+	padding:5px;
+	width:32%;
+	font-size:105%;
+	float:left;
+	color:black;
+}
+
+ul.navi {
+	list-style-type:none;
+	padding-top:20px;
+}
+
+ul.navi li {
+	padding-bottom:10px;
+}
+
+ul.navi li a {
+	color:#069;
+	text-transform:uppercase;
+	font-weight:bold;
+	font-size: larger;
+}
+.navi img 
+{
+    float: right;
+    width: 35px;
+}
+#tech_status td {
+	text-align:center;
+}
+
+h2 {
+	text-align:left;
+}
+h3 {
+	text-align:left;
+}
+.inside_shadow {
+	box-shadow: 1px 1px 5px #CCC;
+    -moz-box-shadow: 1px 1px 5px #CCC;
+    -webkit-box-shadow: 1px 1px 5px #CCC;
+}
+
+td {
+	border:none;
+	text-align:left;
+	vertical-align:top;
+}
+
+.text_input {
+	height:16px;
+}
+
+.company_boxes {
+	border:1px #333 solid;
+	paddding:10px;
+	width:47%;
+	float:left;
+	margin:10px; !important
+	-moz-box-shadow:#CCC 2px 2px 8px;
+    -webkit-box-shadow: #CCC 2px 2px 8px;
+    box-shadow: #CCC 2px 2px 8px;
+}
+
+.company_sub_boxes {
+	padding:0px 0px 10px 10px;
+	height:150px;
+	overflow:auto;
+	clear:left;
+}
+
+.company_boxes_titles {
+	position:relative;
+	top:-12px; 
+	background-color:#FFF; 
+	float:left; 
+	margin-left:7px; 
+	padding:0px 5px 0px 2px;
+}
+
+a.column_title {
+	font-weight:bold;
+	color:black;
+	font-size:18px;
+}
+
+.open {
+	color:#F30;
+}
+
+.closed {
+	color:#06C;
+}
+blockquote
+{
+    margin: 10px;
+    font-style:italic;
+}
+caption, .table_caption
+{
+    font-size: x-large;
+    font-weight: bold;
+    text-align: center;
+    
+}
+tr.open td
+{
+    background-color: #ff8973;   
+}
+tr.closed td
+{
+    background-color: #77A3FF;   
+}
