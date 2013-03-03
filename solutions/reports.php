@@ -1,6 +1,0 @@
-<?php
-	
-echo "Coming soon";	
-	
-	
-?>
